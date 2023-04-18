@@ -1,13 +1,15 @@
 
 
-  ##
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=falandimho&show_icons=true&theme=material-palenight" media="(prefers-color-scheme: dark)" >
-    <source srcset="https://github-readme-stats.vercel.app/api?username=falandimho&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme:dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=falandimho&show_icons=true" />
-</picture>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falandimho" />
+  
+  <div style="display: flex; align-items: center;">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=falandimho&show_icons=true&theme=material-palenight" media="(prefers-color-scheme: dark)" >
+      <source srcset="https://github-readme-stats.vercel.app/api?username=falandimho&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme:dark)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=falandimho&show_icons=true" />
+  </picture>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falandimho" />
+  </div>
 
 <div style="display: inline_block">
   <img align="center" alt="Ant-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
